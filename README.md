@@ -50,6 +50,12 @@ Top predictors (Feature Importance from Random Forest):
 - Real-time probability output
 - Actionable **HR recommendations**
 
+## End-to-End Machine Learning Project
+**Dataset**: IBM HR Analytics Employee Attrition & Performance (~1,470 employees)  
+**Goal**: Predict which employees are likely to leave and identify key drivers  
+**Model**: Random Forest Classifier (86–88% accuracy)
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/2181227f-1dd9-4601-b5d4-ff2958fc6bb9" />
+
 
 1. Clone the repository:
    ```bash
@@ -66,3 +72,12 @@ Proactively identify employees at risk of leaving
 Target retention strategies (e.g., remote work for long commuters, better hikes)
 Reduce turnover costs significantly
 
+## 📬 Contact
+
+Contact : gmail:- pandmahadev120@gmail.com
+
+Linkedin :- https://www.linkedin.com/in/mahadev-data-scientist/
+
+Twitter : - https://x.com/Mahadev_Py
+
+Portfolio- https://www.mahadev.me/
